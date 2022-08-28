@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polaski0&hide=javascript,css,scss,html&theme=tokyonight)](https://github.com/francism06/pakitsek)
+[![Top stats](https://github-readme-stats.vercel.app/api?username=polaski0)](https://github.com/polaski0/github-readme-stats)
